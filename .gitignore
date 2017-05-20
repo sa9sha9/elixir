@@ -1,1 +1,13 @@
 .idea/**
+
+
+### https://raw.github.com/github/gitignore/dae624c7d46b52655d647d56d378ce14d7028c9f/elixir.gi0;95;0ctignore
+
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+*.beam
+
+
