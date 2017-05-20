@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopyrightManager">
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+    </LanguageOptions>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_4" default="true" project-jdk-name="Elixir 1.4.2" project-jdk-type="Elixir SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
